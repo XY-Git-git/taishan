@@ -20,5 +20,6 @@ public class NumberoneApplication
         // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(NumberoneApplication.class, args);
         System.out.println("(♥◠‿◠)ﾉﾞ  Numberone启动成功   ლ(´ڡ`ლ)ﾞ  \n");
+        System.out.println("公司在線管理系統!!!");
     }
 }
